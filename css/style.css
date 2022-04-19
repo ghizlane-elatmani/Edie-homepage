@@ -733,6 +733,16 @@ label {
   color: var(--color-grey-6);
 }
 
+.created-footer {
+  margin-top: 4rem;
+  color: var(--color-grey-3);
+  text-align: center;
+}
+
+.created-footer span {
+  font-weight: 700;
+}
+
 @media screen and (min-width: 767px) {
   label {
     font-size: 14px;
